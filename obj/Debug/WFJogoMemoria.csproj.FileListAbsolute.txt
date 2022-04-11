@@ -1,0 +1,10 @@
+C:\Users\munir\source\repos\WFJogoMemoria\bin\Debug\WFJogoMemoria.exe.config
+C:\Users\munir\source\repos\WFJogoMemoria\bin\Debug\WFJogoMemoria.exe
+C:\Users\munir\source\repos\WFJogoMemoria\bin\Debug\WFJogoMemoria.pdb
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.csprojAssemblyReference.cache
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.Form1.resources
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.Properties.Resources.resources
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.csproj.GenerateResource.cache
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.exe
+C:\Users\munir\source\repos\WFJogoMemoria\obj\Debug\WFJogoMemoria.pdb
